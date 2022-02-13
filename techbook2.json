@@ -1,0 +1,49 @@
+{
+  "bookname": "techbook2",
+  "booktitle": "techbook2",
+  "aut": [],
+  "language": "ja",
+  "toc": true,
+  "rights": "(C) 2022　親方Project",
+  "colophon": true,
+  "history": [
+    [
+      "2022-06 初版"
+    ]
+  ],
+  "pbl": "親方Project",
+  "edt": "親方Project　@oyakata2438",
+  "date": "2022-06-26",
+  "secnolevel": 3,
+  "titlepage": true,
+  "review_version": 3.0,
+  "texstyle": [
+    "reviewmacro"
+  ],
+  "texdocumentclass": [
+    "review-jsbook",
+    "media=ebook,paper=b5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=10pt,baselineskip=15.4pt,line_length=44zw,number_of_lines=40,head_space=18mm,headsep=3mm,headheight=5mm,footskip=10mm"
+  ],
+  "sty_templates": {
+    "url": "https://github.com/TechBooster/ReVIEW-Template/archive/2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa.zip",
+    "dir": "ReVIEW-Template-2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa/articles/sty/"
+  },
+  "templates": [
+    "images"
+  ],
+  "catalog": {
+    "PREDEF": [
+      "preface.re"
+    ],
+    "CHAPS": [
+      "01-attendEvent.re",
+      "02-output.re",
+      "03-thinkScript.re",
+      "04-book-style.re",
+      "05-frontcover.re"
+    ],
+    "POSTDEF": [
+      "postscript.re"
+    ]
+  }
+}
