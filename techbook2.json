@@ -40,7 +40,9 @@
       "02-output.re",
       "03-thinkScript.re",
       "04-book-style.re",
-      "05-frontcover.re"
+      "05-frontcover.re",
+      "06-coverMac.re",
+      "07-writing.re"
     ],
     "POSTDEF": [
       "postscript.re"
