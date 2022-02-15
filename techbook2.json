@@ -42,7 +42,9 @@
       "04-book-style.re",
       "05-frontcover.re",
       "06-coverMac.re",
-      "07-writing.re"
+      "07-writing.re",
+      "08-sec-image.re",
+      "09-sec-image-win7.re"
     ],
     "POSTDEF": [
       "postscript.re"
