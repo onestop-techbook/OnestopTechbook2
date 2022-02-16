@@ -44,7 +44,8 @@
       "06-coverMac.re",
       "07-writing.re",
       "08-sec-image.re",
-      "09-sec-image-win7.re"
+      "09-sec-image-win7.re",
+      "10-sec-nombre.re"
     ],
     "POSTDEF": [
       "postscript.re"
