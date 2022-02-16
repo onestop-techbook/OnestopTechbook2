@@ -51,7 +51,11 @@
       "13-morning.re",
       "14-eventTips.re",
       "15-afterevent.re",
-      "16-booth.re"
+      "16-booth.re",
+      "17-Meetup.re",
+      "18-aboutMoney.re",
+      "19-aboutTax.re",
+      "20-tempTopix.re"
     ],
     "POSTDEF": [
       "postscript.re"
