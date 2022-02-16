@@ -45,7 +45,8 @@
       "07-writing.re",
       "08-sec-image.re",
       "09-sec-image-win7.re",
-      "10-sec-nombre.re"
+      "10-sec-nombre.re",
+      "11-howToOrder.re"
     ],
     "POSTDEF": [
       "postscript.re"
