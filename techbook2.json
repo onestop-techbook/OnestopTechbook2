@@ -46,7 +46,12 @@
       "08-sec-image.re",
       "09-sec-image-win7.re",
       "10-sec-nombre.re",
-      "11-howToOrder.re"
+      "11-howToOrder.re",
+      "12-prepare.re",
+      "13-morning.re",
+      "14-eventTips.re",
+      "15-afterevent.re",
+      "16-booth.re"
     ],
     "POSTDEF": [
       "postscript.re"
