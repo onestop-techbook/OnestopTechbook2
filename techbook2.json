@@ -57,7 +57,10 @@
       "19-aboutTax.re",
       "20-tempTopix.re",
       "chap-introduce.re",
-      "chap-oyakata-intro.re"
+      "chap-oyakata-intro.re",
+      "chap-kokoroe.re",
+      "chap-bosyu.re",
+      "chap-money.re"
     ],
     "POSTDEF": [
       "postscript.re"
