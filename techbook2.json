@@ -55,7 +55,9 @@
       "17-Meetup.re",
       "18-aboutMoney.re",
       "19-aboutTax.re",
-      "20-tempTopix.re"
+      "20-tempTopix.re",
+      "chap-introduce.re",
+      "chap-oyakata-intro.re"
     ],
     "POSTDEF": [
       "postscript.re"
