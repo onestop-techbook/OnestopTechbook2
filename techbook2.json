@@ -62,7 +62,10 @@
       "chap-bosyu.re",
       "chap-money.re",
       "chap-niku.re",
-      "Chap-oyakata-EditorGitSetup.re"
+      "Chap-oyakata-EditorGitSetup.re",
+      "chap-schedule.re",
+      "chap-setupforauther.re",
+      "chap-topics.re"
     ],
     "POSTDEF": [
       "postscript.re"
