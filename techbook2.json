@@ -36,6 +36,7 @@
       "preface.re"
     ],
     "CHAPS": [
+      "chap-introduce.re",
       "01-attendEvent.re",
       "02-output.re",
       "03-thinkScript.re",
@@ -56,7 +57,6 @@
       "18-aboutMoney.re",
       "19-aboutTax.re",
       "20-tempTopix.re",
-      "chap-introduce.re",
       "chap-oyakata-intro.re",
       "chap-kokoroe.re",
       "chap-bosyu.re",
@@ -65,7 +65,11 @@
       "Chap-oyakata-EditorGitSetup.re",
       "chap-schedule.re",
       "chap-setupforauther.re",
-      "chap-topics.re"
+      "chap-topics.re",
+      "chap-hayashi.re",
+      "sec-windows7-installation.re",
+      "sec-word-intro.re",
+      "appendix_attendjointbook.re"
     ],
     "POSTDEF": [
       "postscript.re"
