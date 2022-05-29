@@ -67,10 +67,12 @@
       "chap-schedule.re",
       "chap-setupforauther.re",
       "chap-topics.re",
+      "chap_gather_article.re",
       "chap-hayashi.re",
       "sec-windows7-installation.re",
       "sec-word-intro.re",
       "chap-decide-on-a-title.re",
+      "chap-circle.re",
       "appendix_attendjointbook.re"
     ],
     "POSTDEF": [
