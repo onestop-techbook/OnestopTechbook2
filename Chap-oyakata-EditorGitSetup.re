@@ -58,7 +58,7 @@ Organizationの名前と、メールアドレスを入力して、最上段のFr
 //image[03_NewOrganizationDone][Organizationができた][scale=0.5]{
 //}
 
-自分がPeopleに入っています。新しい人を入れる場合は、Invite Someoneから追加できます。GitIDを聞いて、Invitationを送ります。稀にうまく追加できない場合がありますので、一度Invitationをキャンセルして再度実施という形で繰り返すとできる場合があります。（今までに二人ほど一回でうまく追加できなかった人がいます）
+自分がPeopleに入っています。新しい人を入れる場合は、Invite Someoneから追加できます。GitHubのIDを聞いて、Invitationを送ります。稀にうまく追加できない場合がありますので、一度Invitationをキャンセルして再度実施という形で繰り返すとできる場合があります。（今までに二人ほど一回でうまく追加できなかった人がいます）
 
 == リポジトリの初期設定をする
 
