@@ -221,12 +221,12 @@ Re:VIEW で書かれた原稿は PDF や epub などの形式として出力（�
 
 テキストエディタ、何を使っていますか？Windowsのメモ帳で頑張ってる強者なひともいらっしゃるかもしれません。Vim や Emacs という昔ながらのエディタもありますが、エンジニアに人気のテキストエディタというと、最近はよりモダンな Atom@<fn>{atom} や Visual Studio Code@<fn>{vscode} があります。
 
-中でもVisual Studio Code（VSCode）は名前の通り Visual Studio なのでテキストエディタというよりは IDE なのですがとても軽量でテキストエディタとしてもとても使い勝手が良く、最近シェアを急激に伸ばしているようです。実際、筆者や本書や別の本も、Re:VIEW プラグインをインストールした VSCode で書いています。筆者が試した限りだと Atom より動作が軽量かつ、JavaScript/TypeScript での IDE としての機能が筆者にとっての必要十分なので、愛用しているエディタです。
+中でもVisual Studio Code（VSCode）は名前の通り Visual Studio なのでテキストエディタというよりは IDE なのですがとても軽量でテキストエディタとしてもとても使い勝手が良く、最近シェアを急激に伸ばしています。実際、本書や別の本も、Re:VIEW プラグインをインストールした VSCode で書いています。筆者が試した限りだと Atom より動作が軽量かつ、JavaScript/TypeScript での IDE としての機能が筆者にとっての必要十分なので、愛用しているエディタです。
 
-Markdown で執筆する場合は、Markdown 専門のツールを使うという手もあります。Windows でも Mac でも最近はいろいろな Markdown 執筆ツールがあるので、それらを利用してみるという手もあります。最近はウェブサービスで Markdown 形式をサポートしているケースも多く、ブログを書いたりするのにも便利です。
+Markdown で執筆する場合は、Markdown 専門のツールを使うという手もあります。Windows でも Mac でも最近はいろいろな Markdown 執筆ツールがあるので、それらを利用してみるという手もあります。最近はウェブサービスで Markdown 形式をサポートしているケースも多く、ブログを書いたりするのにも便利です。Markdownエディタといった形で検索すればいくつもヒットします。使い慣れたもの、知ってるものがあればそれを使って執筆しましょう。
 
 //footnote[vscode][@<href>{https://code.visualstudio.com/}]
-//footnote[atom][@<href>{https://atom.io/}]
+//footnote[atom][@<href>{https://atom.io/}　ただ、最近はVSCodeに押され、2022年末で開発終了するようです。]
 
 == 環境構築
 
