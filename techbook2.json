@@ -1,19 +1,20 @@
 {
   "bookname": "techbook2",
-  "booktitle": "techbook2",
+  "booktitle": "技術同人誌を書こう　改訂版",
   "aut": [],
   "language": "ja",
   "toc": true,
-  "rights": "(C) 2022　親方Project",
+  "rights": "(C) 2023　親方Project",
   "colophon": true,
   "history": [
     [
-      "2022-06 初版"
+      "2023-11-12 改訂版　初版"
     ]
   ],
   "pbl": "親方Project",
   "edt": "親方Project　@oyakata2438",
-  "date": "2022-11-20",
+  "prt": "K-9",
+  "date": "2023-11-12",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
@@ -43,11 +44,13 @@
       "04-book-style.re",
       "05-frontcover.re",
       "06-coverMac.re",
+	  "chap-cover-typography.re",
       "07-writing.re",
       "08-sec-image.re",
       "09-sec-image-win7.re",
       "10-sec-nombre.re",
       "11-howToOrder.re",
+	  "chap-decide-on-a-title.re",
       "12-prepare.re",
       "13-morning.re",
       "14-eventTips.re",
@@ -69,15 +72,13 @@
       "chap-topics.re",
       "chap_gather_article.re",
       "chap-hayashi.re",
-      "sec-windows7-installation.re",
       "sec-word-intro.re",
-      "chap-decide-on-a-title.re",
       "chap-circle.re",
-      "chap-cover-typography.re",
       "appendix_attendjointbook.re"
     ],
     "POSTDEF": [
-      "postscript.re"
+      "postscript.re",
+	  "contributors.re"
     ]
   }
 }
