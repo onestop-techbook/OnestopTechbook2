@@ -266,4 +266,3 @@ C++でのソシャゲ開発からRuby on Railsのサーバサイド、AWS Lambda
 //}
 Androidエンジニア……のはずなのに、サーバーレスアーキテクチャが大好きな人。バックエンド(Java, Node.js, AWS, Dockerなど)もフロントエンド(Android, Unity, Flutter, Vue.jsなど)も原稿も言われたら何でもやってしまう。
 
-
